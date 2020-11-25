@@ -2,7 +2,7 @@
 
 Projeto Java com JPA
 
-Link do back-end: https://github.com/herculespsilva/vue-blank
+Link do front-end: https://github.com/herculespsilva/vue-blank
 
 ### Run for development the project
 ```
